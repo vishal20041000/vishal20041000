@@ -1,4 +1,4 @@
-<h1> Hi, I'm Vishal Singh Manahs! <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30" height="30"></h1>
+<h1> Hi, I'm Vishal Singh Manhas! <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30" height="30"></h1>
 <img align='right' src="https://media.giphy.com/media/Tgmo1j3zfzQFVzU8Qz/giphy.gif" width="200">
 <p><em>Pursuing Computer Engineering<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently working on <a href="https://www.java.com/en/download/help/whatis_java.html">JAVA (Backend)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
