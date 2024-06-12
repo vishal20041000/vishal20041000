@@ -60,6 +60,6 @@ public static void main(String[] args) {
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ypep7c3x36fli4ppakqaemjv3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 [web]: https://github.com/kapirath28
-[instagram]:https://www.instagram.com/vishal_manhas?igsh=cmRlZWw4cjI0dXU=
+[instagram]:(https://www.instagram.com/vishal_manhas?igsh=enU5eXExNWcwZDJz&utm_source=qr)
 [linkedin]: (https://www.linkedin.com/in/vishal-manhas-605523254/)
 [twitter]: https://x.com/VishalManh9770
