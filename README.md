@@ -7,9 +7,9 @@
 [![Linkedin: Vishal Singh Manhas](https://img.shields.io/badge/-VishalSinghManhas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-manhas-605523254/)](https://www.linkedin.com/in/vishal-manhas-605523254/)
 [![GitHub vishal80](https://img.shields.io/github/followers/vishal180?label=follow&style=social)](https://github.com/vishal20041000)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ther's more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> there's more about me...  
 
-java
+```java
 public class Vishal {
     private String pronouns = "he/him";
     private List<String> code = Arrays.asList("C", "C++", "JAVA", "Python", "Kotlin", "BASH", "HTML");
@@ -23,7 +23,7 @@ public static void main(String[] args) {
    }
 }
 
-
+```
 ### Tech Stack:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][web]
