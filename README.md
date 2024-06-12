@@ -5,7 +5,7 @@
 
 [![Twitter: Vishal Singh Manhas](https://img.shields.io/twitter/follow/VishalManh9770?style=social)](https://x.com/VishalManh9770)
 [![Linkedin: Vishal Singh Manhas](https://img.shields.io/badge/-VishalSinghManhas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-manhas-605523254/)](https://www.linkedin.com/in/vishal-manhas-605523254/)
-[![GitHub vishal20041000](https://img.shields.io/github/followers/vishal180?label=follow&style=social)](https://github.com/vishal20041000)
+[![GitHub vishal20041000](https://img.shields.io/github/followers/vishal20041000?label=follow&style=social)](https://github.com/vishal20041000)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> there's more about me...  
 
