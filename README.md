@@ -57,7 +57,7 @@ public static void main(String[] args) {
 
 ###  Now playing on Vishal's Spotify🎧: 
 
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ypep7c3x36fli4ppakqaemjv3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31ypep7c3x36fli4ppakqaemjv3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 [web]: https://github.com/kapirath28
 [instagram]:https://www.instagram.com/vishal_manhas?igsh=enU5eXExNWcwZDJz&utm_source=qr
